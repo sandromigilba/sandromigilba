@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sandromigilba" target="_blank" style="text-decoration: none;"><img src="icons/linkedin.svg" alt="LinkedIn" width="55" height="55" style="border: none;" /></a>
-  <a href="mailto:sandromigilba10@gmail.com" style="text-decoration: none;"><img src="icons/gmail.svg" alt="Gmail" width="55" height="55" style="border: none;" /></a>
+  <a href="https://sandromigilba10@gmail.com" style="text-decoration: none;"><img src="icons/gmail.svg" alt="Gmail" width="55" height="55" style="border: none;" /></a>
   <a href="https://sandroporto.dev" target="_blank" style="text-decoration: none;"><img src="icons/portfolio.svg" alt="Portfolio" width="55" height="55" style="border: none;" /></a>
 </p>
 
