@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="banner.png" alt="Sandro Migilba Hadi Banner" width="100%" />
-</div>
+</div> -->
 
 <br />
 
@@ -32,35 +32,21 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
 - ⚙️ Skilled in writing clean, scalable REST APIs, microservices, and database models.
 - 🤖 Tinkering with automation scripts, local workflows, and AI assistants to boost coding productivity.
 
----
+--
 
 ### 🛠️ Tech Stack & Skills
-
-#### 🌐 Frontend
-<p align="left">
+<p align="center">
   <img src="icons/react.svg" alt="React" width="55" height="55" />
   <img src="icons/nextdotjs.svg" alt="Next.js" width="55" height="55" />
   <img src="icons/typescript.svg" alt="TypeScript" width="55" height="55" />
   <img src="icons/tailwindcss.svg" alt="Tailwind CSS" width="55" height="55" />
   <img src="icons/inertia.svg" alt="Inertia.js" width="55" height="55" />
-</p>
-
-#### ⚙️ Backend
-<p align="left">
   <img src="icons/laravel.svg" alt="Laravel" width="55" height="55" />
   <img src="icons/nodedotjs.svg" alt="Node.js" width="55" height="55" />
   <img src="icons/express.svg" alt="Express.js" width="55" height="55" />
-</p>
-
-#### 🗄️ Databases
-<p align="left">
   <img src="icons/postgresql.svg" alt="PostgreSQL" width="55" height="55" />
   <img src="icons/mysql.svg" alt="MySQL" width="55" height="55" />
   <img src="icons/mongodb.svg" alt="MongoDB" width="55" height="55" />
-</p>
-
-#### 🔧 DevOps & Tools
-<p align="left">
   <img src="icons/docker.svg" alt="Docker" width="55" height="55" />
   <img src="icons/linux.svg" alt="Linux" width="55" height="55" />
   <img src="icons/nginx.svg" alt="Nginx" width="55" height="55" />
@@ -68,9 +54,41 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
   <img src="icons/vercel.svg" alt="Vercel" width="55" height="55" />
 </p>
 
+<!-- #### 🌐 Frontend
+<p align="left">
+  <img src="icons/react.svg" alt="React" width="55" height="55" />
+  <img src="icons/nextdotjs.svg" alt="Next.js" width="55" height="55" />
+  <img src="icons/typescript.svg" alt="TypeScript" width="55" height="55" />
+  <img src="icons/tailwindcss.svg" alt="Tailwind CSS" width="55" height="55" />
+  <img src="icons/inertia.svg" alt="Inertia.js" width="55" height="55" />
+</p> -->
+
+<!-- #### ⚙️ Backend
+<p align="left">
+  <img src="icons/laravel.svg" alt="Laravel" width="55" height="55" />
+  <img src="icons/nodedotjs.svg" alt="Node.js" width="55" height="55" />
+  <img src="icons/express.svg" alt="Express.js" width="55" height="55" />
+</p> -->
+
+<!-- #### 🗄️ Databases
+<p align="left">
+  <img src="icons/postgresql.svg" alt="PostgreSQL" width="55" height="55" />
+  <img src="icons/mysql.svg" alt="MySQL" width="55" height="55" />
+  <img src="icons/mongodb.svg" alt="MongoDB" width="55" height="55" />
+</p> -->
+
+<!-- #### 🔧 DevOps & Tools
+<p align="left">
+  <img src="icons/docker.svg" alt="Docker" width="55" height="55" />
+  <img src="icons/linux.svg" alt="Linux" width="55" height="55" />
+  <img src="icons/nginx.svg" alt="Nginx" width="55" height="55" />
+  <img src="icons/git.svg" alt="Git" width="55" height="55" />
+  <img src="icons/vercel.svg" alt="Vercel" width="55" height="55" />
+</p> -->
+
 ---
 
-### 💻 Featured Projects
+<!-- ### 💻 Featured Projects
 
 Here are some of the web applications I have built and deployed:
 
@@ -118,14 +136,14 @@ Here are some of the web applications I have built and deployed:
   </p>
 </details>
 
----
+--- -->
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandromigilba&show_icons=true&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6" alt="Sandro's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromigilba&layout=compact&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6" alt="Sandro's Most Used Languages" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6" alt="Sandro's GitHub Streak" width="97%" />
