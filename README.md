@@ -1,52 +1,6 @@
-<!-- <div align="center">
-  <img src="banner.gif" alt="Eevee Walking Banner" width="100%" />
-</div> -->
-
-<p>
-?::..                                                        ..:^^^^^:::?                           
-? ...::..                                              .:^^^^::...     ~.                           
-~:     ......                                     ..:^::..            !.                          . 
- !         ...:..                               .::..       ....     !:                        ^?PG5
- :^   .!~:.    ..:^                           .^.     .:^~7??J7.   .!.                      .7PGGGGG
-  ~.   ^5JJ7^.    :~                         .~.   .~7JJJJ??J!    .!.                    .~YGGGGGGGB
-  .!    ????JJ?:   ~.                       :!   .7YJ??????J~    .!.                   .!PGGGGGGGGGB
-   .~   .Y?????Y!   ~          .....::..   :!   :JJ??????JJ^    :~                   .?GGGGGGGGGGGGB
-    ^^   ~Y?????Y^  ::    ::.~7: ::. ...::!!   ^Y?????JJJ!.    ^^                   7GGGGGGGGGGGGGGB
-     ^:   ^7?JJ??5.  !.^7JY7!JJJ7JJ7^.   .7   !Y?J??7!^:.   ..~.                   ~BGGGGGGGGGGGGGGG
-      ::..  .:^!7JY..JYJ?JYY???J5???J?^..7.  ^!^:..    ...:^::                     !BGGGGGGGGGGGGGGG
-         ..:::....:YJJ??YY??????YY????J??.      ...:::::..                         ~PGGGGGGGGGGGGGGP
-             ....~JJ??J5J????????5??????J7:::^^::!^                                ~JGGGGGGGGGGGGGP7
-                .Y???YY??????????YJ???????Y^     .~                               .^!GGGGGGGGGG57^^ 
-                .5YYYPJJJJJJJJJJ?J5?JJJJJJYJ      ~                               :.:BGGGGGG57: .:  
-                  ~J55PYYYYYYYYY5P5YYYYYY557     ::                               ~ .PGGPJ~.   .^   
-                   ^555P5YYYYY5PP5YYJJJ?:7?J~   .!                               ^.  ^7^.    .:.    
-                  .J?JGP?55Y55Y?!^^!:JGGY.J?Y. .~                               :.         .::      
-                 ^JJY7Y5.?^~^..  ^G5.?GG7 !?J!::                               :.        .::.       
-               :JY?!. ~.^^.      .~JYYJ^  !JJJ.                              .:.      ..^:.         
-            .~YJ^.    .:...^^          ..:Y?J?                              ::     ..::.            
-          :7JYY          ..::::~^~!~^^^^:7J?Y5!:.                        .:.. ...:^:.               
-        ~?J?Y5.                ~........7J?J5^^5GPYJ??77?JY?^.......::::....:^^:.                   
-     .~?JJ5PY7                ~.     .~JJ??YY.  ~5GGGGGGPJ^.        .:~^^^:..                       
-    ~Y5PGGG#5.               ::   .:!JJ???J5^     ^?YY7^.             .!.                           
-  .JPGGGGGG#Y                ~ .^!?J?????J57                           .^                           
- :GGGGGGGGG#5             .:7YJ555PPPPY?J5?                             ~                           
- JGGGGGGGGBBB           ~PGGGGGGGGGGGGYJ5?                              .~                          
- ?GGGGGGGGB5^          ~BGGGGGGGGGGGGGJ57        .       ..              ^.                         
- 7GGGGGGB5^           .GGGGGGGGGGGGGBP5^        .. ..:::^^~:              ~.                        
- :GGGGBP^             5GGGGGGGGGGGBBBYJ.        .!^^^::::::^~.             ^.                       
-  PGGG!              !GGGGGGGGBBBBGB^ .~        :!^:::::::::~....           ::                      
-  !B7.               BGGBBBBGPY7~:.~   ~.       :. :^:::::::::  .....        .:.                    
-   .                :5Y?!^7:.     ::   .:       :.   ~:.:::::^:    .:::.       ~                    
-                         :Y.     ::    .^       ~    ::^..:::~.       .: .    .:                    
-                        ^GGP.  .^      :. .    :^    7PGY:..^:        .^7P!   ^.                    
-                       ~GGGGP:::       ^^5P:  .~     PGGGG?^^         :PGGG5: ~                     
-                      ?GGGGGGG:       :PGGGG~.~     !GGGGGG5          ?GGGGGG5:                     
-                    ^5GGGGGGP.       .PGGGGGGJ    .7GGGGGGB:          GGGGGGGP                      
-                   ~BGGGGGG?         5GGGGGGG.   ~GGGGGGGB!          7GGGGGGB!                      
-                   .7YYY?!.        :PGGGGGGB:    !GPGP5Y7.          7GGGGGGGG                       
-                                  !BGGGGGBG^       ...             :BBGBGGGY.                       
-                                  .?PPGP57.                         .~!7!^.                         
-</p>
+<div align="center">
+  <img src="banner.jpg" alt="Banner" width="100%" />
+</div>
 
 ---
 
@@ -181,13 +135,13 @@ Here are some of the web applications I have built and deployed:
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandromigilba&show_icons=true&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6" alt="Sandro's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromigilba&layout=compact&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6" alt="Sandro's Most Used Languages" width="48%" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandromigilba&show_icons=true&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6&border_radius=30" alt="Sandro's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromigilba&layout=compact&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6&border_radius=30" alt="Sandro's Most Used Languages" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6" alt="Sandro's GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6&border_radius=30" alt="Sandro's GitHub Streak" width="97%" />
 </p>
 
 ---
