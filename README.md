@@ -1,6 +1,20 @@
-<div align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
-</div>
+<p align="center">
+  <div align="center">
+    <img src="jolteon.png" alt="Banner" width="100%" />
+  </div>
+
+  <p align="left">
+    <a href="https://linkedin.com/in/sandromigilba" target="_blank">
+      <img src="icons/linkedin.svg" alt="LinkedIn" width="55" height="55" />
+    </a>
+    <a href="mailto:sandromigilba10@gmail.com">
+      <img src="icons/gmail.svg" alt="Gmail" width="55" height="55" />
+    </a>
+    <a href="https://sandroporto.dev" target="_blank">
+      <img src="icons/portfolio.svg" alt="Portfolio" width="55" height="55" />
+    </a>
+  </p>
+</p>
 
 ---
 
@@ -9,23 +23,11 @@
 I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. With over **3 years of hands-on experience**, I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
 
 - 🎓 Studying Information Technology at **Bina Sarana Informatika**.
-<!-- Studying **Media Kreatif** (Web Technology) at **Polimedia Jakarta** -->
 - 🚀 **Fast Learner** who loves adapting to new technologies, frameworks, and architecture patterns.
 - 🎨 **UI/UX Focused**, bringing a strong eye for detail, smooth transitions, and glassmorphism design.
 - ⚙️ Skilled in writing clean, scalable REST APIs, microservices, and database models.
 - 🤖 Tinkering with automation scripts, local workflows, and AI assistants to boost coding productivity.
 
-<p align="left">
-  <a href="https://linkedin.com/in/sandromigilba" target="_blank">
-    <img src="icons/linkedin.svg" alt="LinkedIn" width="55" height="55" style="margin: 0 4px;" />
-  </a>
-  <a href="mailto:sandromigilba10@gmail.com">
-    <img src="icons/gmail.svg" alt="Gmail" width="55" height="55" style="margin: 0 4px;" />
-  </a>
-  <a href="https://sandroporto.dev" target="_blank">
-    <img src="icons/portfolio.svg" alt="Portfolio" width="55" height="55" style="margin: 0 4px;" />
-  </a>
-</p>
 
 ---
 
@@ -135,10 +137,10 @@ Here are some of the web applications I have built and deployed:
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandromigilba&show_icons=true&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6&border_radius=30" alt="Sandro's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromigilba&layout=compact&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6&border_radius=30" alt="Sandro's Most Used Languages" width="48%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6&border_radius=30" alt="Sandro's GitHub Streak" width="97%" />
