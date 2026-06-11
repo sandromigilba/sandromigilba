@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sandromigilba" target="_blank" style="text-decoration: none;"><img src="icons/linkedin.svg" alt="LinkedIn" width="55" height="55" style="border: none;" /></a>
   <a href="mailto:sandromigilba10@gmail.com" style="text-decoration: none;"><img src="icons/gmail.svg" alt="Gmail" width="55" height="55" style="border: none;" /></a>
-  <a href="https://sandroporto.dev" target="_blank" style="text-decoration: none;"><img src="icons/portfolio.svg" alt="Portfolio" width="55" height="55" style="border: none;" /></a>
+  <a href="https://sandro-port.vercel.app" target="_blank" style="text-decoration: none;"><img src="icons/portfolio.svg" alt="Portfolio" width="55" height="55" style="border: none;" /></a>
 </p>
 
 ---
@@ -138,7 +138,7 @@ Here are some of the web applications I have built and deployed:
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6&border_radius=30" alt="Sandro's GitHub Streak" width="97%" />
+  <i><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6&border_radius=30" alt="Sandro's GitHub Streak" width="97%" /></i>
 </p>
 
 ---
