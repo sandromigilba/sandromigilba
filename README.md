@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="jolteon.png" alt="Banner" width="120" style="padding-left: 60"/>
+  <img src="jolteon.png" alt="Banner" width="120" style="padding-left: 60px;" />
 </div>
 
 <br>
@@ -25,7 +25,7 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 <p align="center">
   <img src="icons/react.svg" alt="React" width="55" height="55" />
   <img src="icons/nextdotjs.svg" alt="Next.js" width="55" height="55" />
