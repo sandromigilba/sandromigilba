@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="banner.gif" alt="Banner" width="120" />
+  <!-- <img src="jolteon.png" alt="Banner" width="120" /> -->
+  <img src="banner.gif" alt="Banner" width="100%" />
 </div>
 
 <br>
