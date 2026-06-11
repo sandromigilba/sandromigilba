@@ -1,7 +1,9 @@
-<p align="center">
+<div  style="display: flex">
   <div align="center">
-    <img src="jolteon.png" alt="Banner" width="100%" />
+    <img src="jolteon.png" alt="Banner" width="90" />
   </div>
+
+<br>
 
   <p align="left">
     <a href="https://linkedin.com/in/sandromigilba" target="_blank">
@@ -14,7 +16,7 @@
       <img src="icons/portfolio.svg" alt="Portfolio" width="55" height="55" />
     </a>
   </p>
-</p>
+</div>
 
 ---
 
