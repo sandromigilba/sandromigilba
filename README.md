@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="jolteon.png" alt="Banner" width="120" style="margin-left: 60"/>
+  <img src="jolteon.png" alt="Banner" width="120" style="padding-left: 60"/>
 </div>
 
 <br>
