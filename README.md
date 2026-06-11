@@ -1,12 +1,21 @@
-<!-- <div align="center">
-  <img src="banner.png" alt="Sandro Migilba Hadi Banner" width="100%" />
-</div> -->
+<div align="center">
+  <img src="banner.gif" alt="Eevee Walking Banner" width="100%" />
+</div>
 
-<br />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Sandro+Migilba+Hadi+👋;Full-Stack+Web+Developer;Crafting+Modern+%26+Scalable+Web+Apps;React+%E2%80%A2+Next.js+%E2%80%A2+Laravel;Based+in+Indonesia" alt="Typing SVG" />
-</h1>
+
+---
+
+### 💫 About Me
+
+I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. With over **3 years of hands-on experience**, I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
+
+- 🎓 Studying Information Technology at **Bina Sarana Informatika**.
+<!-- Studying **Media Kreatif** (Web Technology) at **Polimedia Jakarta** -->
+- 🚀 **Fast Learner** who loves adapting to new technologies, frameworks, and architecture patterns.
+- 🎨 **UI/UX Focused**, bringing a strong eye for detail, smooth transitions, and glassmorphism design.
+- ⚙️ Skilled in writing clean, scalable REST APIs, microservices, and database models.
+- 🤖 Tinkering with automation scripts, local workflows, and AI assistants to boost coding productivity.
 
 <p align="center">
   <a href="https://linkedin.com/in/sandromigilba" target="_blank">
@@ -21,18 +30,6 @@
 </p>
 
 ---
-
-### 💫 About Me
-
-I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. With over **3 years of hands-on experience**, I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
-
-- 🎓 Studying **Media Kreatif** (Web Technology) at **Polimedia Jakarta**.
-- 🚀 **Fast Learner** who loves adapting to new technologies, frameworks, and architecture patterns.
-- 🎨 **UI/UX Focused**, bringing a strong eye for detail, smooth transitions, and glassmorphism design.
-- ⚙️ Skilled in writing clean, scalable REST APIs, microservices, and database models.
-- 🤖 Tinkering with automation scripts, local workflows, and AI assistants to boost coding productivity.
-
---
 
 ### 🛠️ Tech Stack & Skills
 <p align="center">
