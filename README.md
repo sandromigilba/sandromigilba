@@ -1,4 +1,4 @@
-<div align="left" style="padding-left: 40px">
+<div align="left" style="margin-left: 60">
   <img src="jolteon.png" alt="Banner" width="120" />
 </div>
 
