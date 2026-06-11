@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner.png" alt="Sandro Migilba Hadi Banner" width="100%" />
 </div>
 
 <br />
@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sandromigilba" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="icons/linkedin.svg" alt="LinkedIn" width="60" height="60" style="margin: 0 4px;" />
   </a>
   <a href="mailto:sandromigilba10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="icons/gmail.svg" alt="Gmail" width="60" height="60" style="margin: 0 4px;" />
   </a>
   <a href="https://sandroporto.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="icons/portfolio.svg" alt="Portfolio" width="60" height="60" style="margin: 0 4px;" />
   </a>
 </p>
 
@@ -36,40 +36,36 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
 
 ### 🛠️ Tech Stack & Skills
 
+#### 🌐 Frontend
 <p align="left">
-  <strong>🌐 Frontend:</strong>
-  <br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Inertia.js-9553E6?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="icons/react.svg" alt="React" width="55" height="55" />
+  <img src="icons/nextdotjs.svg" alt="Next.js" width="55" height="55" />
+  <img src="icons/typescript.svg" alt="TypeScript" width="55" height="55" />
+  <img src="icons/tailwindcss.svg" alt="Tailwind CSS" width="55" height="55" />
+  <img src="icons/inertia.svg" alt="Inertia.js" width="55" height="55" />
 </p>
 
+#### ⚙️ Backend
 <p align="left">
-  <strong>⚙️ Backend:</strong>
-  <br />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="icons/laravel.svg" alt="Laravel" width="55" height="55" />
+  <img src="icons/nodedotjs.svg" alt="Node.js" width="55" height="55" />
+  <img src="icons/express.svg" alt="Express.js" width="55" height="55" />
 </p>
 
+#### 🗄️ Databases
 <p align="left">
-  <strong>🗄️ Databases:</strong>
-  <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="icons/postgresql.svg" alt="PostgreSQL" width="55" height="55" />
+  <img src="icons/mysql.svg" alt="MySQL" width="55" height="55" />
+  <img src="icons/mongodb.svg" alt="MongoDB" width="55" height="55" />
 </p>
 
+#### 🔧 DevOps & Tools
 <p align="left">
-  <strong>🔧 DevOps & Tools:</strong>
-  <br />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="icons/docker.svg" alt="Docker" width="55" height="55" />
+  <img src="icons/linux.svg" alt="Linux" width="55" height="55" />
+  <img src="icons/nginx.svg" alt="Nginx" width="55" height="55" />
+  <img src="icons/git.svg" alt="Git" width="55" height="55" />
+  <img src="icons/vercel.svg" alt="Vercel" width="55" height="55" />
 </p>
 
 ---
