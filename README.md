@@ -136,7 +136,7 @@ Here are some of the web applications I have built and deployed:
   </p>
 </details>
 
----
+<--
 
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i> — Austin Freeman
