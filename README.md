@@ -21,7 +21,7 @@ __        __   _
 
 ---
  
-### 💫 About Me
+### About Me
 
 I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. With over **3 years of hands-on experience**, I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
 
@@ -138,16 +138,6 @@ Here are some of the web applications I have built and deployed:
 
 --- -->
 
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandromigilba&show_icons=true&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6&border_radius=30" alt="Sandro's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandromigilba&layout=compact&theme=dark&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117&hide_border=false&border_color=3b82f6&border_radius=30" alt="Sandro's Most Used Languages" width="48%" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandromigilba&theme=dark&fire=a855f7&ring=06b6d4&background=0d1117&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=a855f7&border=3b82f6&border_radius=30" alt="Sandro's GitHub Streak" width="70%" />
-</p>
 
 ---
 
