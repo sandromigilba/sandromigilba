@@ -23,7 +23,7 @@ __        __   _
  
 ### About Me
 
-I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. With over **3 years of hands-on experience**, I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
+I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
 
 - 🎓 Studying Information Technology at **Bina Sarana Informatika**.
 - 🚀 **Fast Learner** who loves adapting to new technologies, frameworks, and architecture patterns.
