@@ -21,7 +21,7 @@ __        __   _
 
 ---
  
-### About Me
+<!--### About Me
 
 I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing in building modern, performant, and visually stunning web applications. I focus on bridging the gap between pixel-perfect, interactive UI/UX designs and high-performance system logic.
 
@@ -32,7 +32,7 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
 - 🤖 Tinkering with automation scripts, local workflows, and AI assistants to boost coding productivity.
 
 
----
+----->
 
 ### 🛠️ Tech Stack
 <p align="center">
