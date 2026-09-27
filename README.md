@@ -34,7 +34,7 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
 
 ----->
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="icons/react.svg" alt="React" width="55" height="55" />
   <img src="icons/nextdotjs.svg" alt="Next.js" width="55" height="55" />
@@ -85,8 +85,6 @@ I am a passionate **Full-Stack Web Developer** based in Indonesia, specializing 
   <img src="icons/git.svg" alt="Git" width="55" height="55" />
   <img src="icons/vercel.svg" alt="Vercel" width="55" height="55" />
 </p> -->
-
----
 
 <!-- ### 💻 Featured Projects
 
